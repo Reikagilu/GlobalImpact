@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato&family=Quicksand&display=swap');
+
+body{
+background: #fff;
+font-family: 'Quicksand', sans-serif;
+}
+
+.card-sistemas{
+padding: 25px;
+text-align: center;
+border-radius: 10px;
+background: #d3d3d3;
+border: 25px solid #fff;
+
+}
+
+.card-sistemas img{
+border-radius: 10px;
+}
+
+
+.botaover{
+width: 30rem;
+height: 50px;
+background: #fff;
+border-radius: 10px;
+}
+
+.botaover a{
+font-size: 35px;
+color:#000;
+}
